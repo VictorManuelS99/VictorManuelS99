@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+### My name is Victor Manuel Sandon 😄
+### I actually use Javascript and Java(ReactJS, NodeJs and Spring Boot🌱)
+### 📫 : victor.albzzy@gmail.com
 <!--
 **VictorManuelS99/VictorManuelS99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
