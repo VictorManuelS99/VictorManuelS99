@@ -1,10 +1,10 @@
 ### Hi there 👋
-### My name is Victor Manuel Sandon 😄
+### My name is Victor Manuel Sandon :sunglasses:
 ### These are my prefer tech skills:
-### Languages: Typescript, Javascript & Java.
-### Front-end: React, Vue, Tailwind, Bulma & pure CSS.
-### Back-end: Node(ExpressJs - NestJs) & Spring Boot.
-### DB: MySql & MongoDB.
+### Languages: Typescript, Javascript & Java. :star:
+### Front-end: React, Vue, Tailwind, Bulma & pure CSS. :star:
+### Back-end: Node(ExpressJs - NestJs) & Spring Boot. :star:
+### DB: MySql & MongoDB. :star:
 ### 📫 : victor.albzzy@gmail.com
 <!--
 **VictorManuelS99/VictorManuelS99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
