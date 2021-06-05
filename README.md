@@ -1,6 +1,6 @@
 ### Hi there 👋
 ### My name is Victor Manuel Sandon :sunglasses:
-### These are my prefer tech skills:
+### These are my preferreds tech skills:
 ### Languages: Typescript, Javascript & Java. :star:
 ### Front-end: React, Vue, Tailwind, Bulma & pure CSS. :star:
 ### Back-end: Node(ExpressJs - NestJs) & Spring Boot. :star:
