@@ -3,7 +3,7 @@
 ### These are my preferreds tech skills:
 ### Languages: Typescript, Javascript & Java. :star:
 ### Front-end: React, Vue, Tailwind, Bulma & pure CSS. :star:
-### Back-end: Node(ExpressJs - NestJs) & Spring Boot. :star:
+### Back-end: Node(Express - Nest) & Spring Boot. :star:
 ### DB: MySql & MongoDB. :star:
 ### 📫 : victor.albzzy@gmail.com
 <!--
